@@ -1,0 +1,175 @@
+A structured roadmap to start your cybersecurity journey using TryHackMe! This guide provides a step-by-step walkthrough of beginner-friendly labs, categorized for easy learning.
+
+📌 Introductory Rooms
+Start with these foundational rooms to understand how TryHackMe works, OpenVPN setup, and cybersecurity basics.
+
+Hello
+
+How to Use TryHackMe
+
+Tutorial
+
+OpenVPN
+
+Beginner Path Introduction
+
+Starting Out in Cybersecurity
+
+Careers in Cybersecurity
+
+How Websites Work
+
+Security Engineer Introduction
+
+Intro to Research
+
+🖥 Windows Fundamentals
+Build a strong foundation in Windows security concepts.
+
+Windows Fundamentals Part 1
+
+Windows Fundamentals Part 2
+
+Windows Fundamentals Part 3
+
+🐧 Linux Fundamentals
+Understand Linux security, command-line basics, and privilege escalation.
+
+ZTH Linux
+
+Linux Modules
+
+Linux Fundamentals Part 1
+
+Linux Strength Training
+
+Linux Fundamentals Part 2
+
+Linux Fundamentals Part 3
+
+🔑 Basic Cybersecurity Concepts
+Familiarize yourself with security principles, threat intelligence, and regulations.
+
+Security Principles
+
+Cyber Governance & Regulation
+
+Cyber Kill Chain
+
+Common Attacks
+
+Python Basics
+
+Putting It All Together
+
+Traffic Analysis Essentials
+
+Cyber Threat Intelligence
+
+Search Skills
+
+OpenVAS
+
+ISO 27001
+
+Ultratech 1
+
+Hacker Methodology
+
+🌍 Networking Fundamentals
+Learn networking basics, protocols, and security.
+
+Intro to Networking
+
+What is Networking
+
+Basic Networking Concepts
+
+Intro to LAN
+
+HTTP in Detail
+
+DNS in Detail
+
+Networking Concepts
+
+Network Services
+
+Network Services 2
+
+🔥 Paths in Cybersecurity
+Discover different career paths in offensive, defensive, and engineering roles.
+
+Offensive Security Intro
+
+Defensive Security Intro
+
+Security Engineer Intro
+
+Jr. Security Analyst Intro
+
+Red Team Fundamentals
+
+🛠 Rooms for Tools
+Hands-on labs for essential cybersecurity tools.
+
+Further Nmap
+
+Metasploit Intro
+
+Metasploit
+
+Tmux
+
+Sublist3r
+
+Vim Basics
+
+FFUF
+
+RustScan
+
+Burp Suite Basics
+
+Burp Suite Repeater
+
+Hydra
+
+Web OSINT
+
+🎯 Reconnaissance Labs
+Master passive and active reconnaissance techniques.
+
+Passive Reconnaissance
+
+Active Reconnaissance
+
+Content Discovery
+
+Shodan
+
+Google Dorking
+
+Sakura
+
+Red Team Recon
+
+🏆 Basic Level Challenges
+Test your skills with beginner-friendly challenges.
+
+OSINT Challenge (OhSINT)
+
+Blue
+
+Easy CTF
+
+📢 Want More?
+
+Check out my TryHackMe Profile
+
+Connect with me on LinkedIn
+
+
+✨ Hunt Daily, Build a Streak, Step Up to the Next Level!
+
+The more you practice, the faster you'll improve. Complete these beginner labs, track your progress, and keep moving up to more advanced topics. Happy Hacking! 🔐
